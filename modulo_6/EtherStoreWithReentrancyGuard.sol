@@ -21,6 +21,8 @@ contract EtherStoreWithReentrancyGuard  is ReentrancyGuard {
         //delete balances[msg.sender];
         (bool success,) = msg.sender.call{value: valueToSend}("");
         require(success);
+        //solucion 3, usar transferenia segura.
+        //payable(msg.sender).transfer(balances[msg.sender]);
         delete balances[msg.sender];
     }
 
