@@ -48,7 +48,7 @@ Este repositorio contiene el material del curso, incluidos ejemplos de código, 
 ¡Las contribuciones son bienvenidas! Si encuentras errores, deseas mejorar el contenido o agregar ejemplos adicionales, no dudes en enviar una solicitud de extracción.
 
 ## Contacto
-- [correo](pedromachado.leiva@gmail.com)
-- [Blockitus](https://www.youtube.com/playlist?list=PL_wOFhiQdEgnD3RMRyLc5VkqnLB_FwyS7)
+- pedromachado.leiva@gmail.com
+- [Blockitus Youtube Channel](https://www.youtube.com/playlist?list=PL_wOFhiQdEgnD3RMRyLc5VkqnLB_FwyS7)
 
 ¡Gracias por unirte a este emocionante viaje de aprendizaje en Solidity! Esperamos que disfrutes del curso y adquieras las habilidades necesarias para desarrollar contratos inteligentes sólidos y efectivos en la plataforma Ethereum.
